@@ -26,6 +26,7 @@
 - 实现对应的handler（导入需要） 
 - 在对应实体上添加指定的注解
 - 代码中实现对应的方法
+>[更多easyPOI资料](http://easypoi.mydoc.io/)
 ### dozer
 #### 功能：
 1. 实现vo，dto等javaBean的相互转换
@@ -55,3 +56,5 @@
     }
 ---
 - 实现了dozer的工具类 com.easypoi.demo.service.DozerUtils
+
+>[更多dozer资料](http://dozer.sourceforge.net/)
