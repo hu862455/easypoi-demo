@@ -47,6 +47,13 @@
             <version>3.2.0</version>
         </dependency>
 
+        <!-- fastJson -->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.55</version>
+        </dependency>
+
     <!-- dozer实现vo，dto的转换 -->
         <dependency>
             <groupId>net.sf.dozer</groupId>
